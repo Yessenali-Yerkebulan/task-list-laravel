@@ -18,16 +18,16 @@ Just simple task manager app
 </ul>
 To setup project run:
 ```shell
-    composer install
+composer install
 ```
 ```shell
-    cp .env.example .env
+cp .env.example .env
 ```
 ```shell
-    php artisan key:generate
+php artisan key:generate
 ```
 ```shell
-    php artisan migrate
+php artisan migrate
 ```
     after migration command select yes option to create database schema
 
