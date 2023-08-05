@@ -17,16 +17,17 @@ Just simple task manager app
     <li>CRUD</li>
 </ul>
 To setup project run:
->```shell
+```sh
 composer install
 ```
->```shell
+```sh
 cp .env.example .env
 ```
->```shell
+```sh
 php artisan key:generate
 ```
->```shell php artisan migrate
+```sh
+php artisan migrate
 ```
     after migration command select yes option to create database schema
 
