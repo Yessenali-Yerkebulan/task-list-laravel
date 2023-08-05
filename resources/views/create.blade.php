@@ -12,7 +12,6 @@
 @endsection
 
 @section('content')
-    {{$errors}}
     <form action="{{route('tasks.store')}}" method="POST">
         @csrf
         <div>
