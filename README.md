@@ -14,6 +14,7 @@ Just simple task manager app
     <li>Models</li>
     <li>Blade Templates</li>
     <li>Pagination</li>
+    <li>Factories and Seeder to generate data</li>
     <li>CRUD</li>
 </ul>
 To setup project run:
