@@ -6,6 +6,8 @@ Just simple task manager app
 <ul>Used Technologies:
     <li>Laravel 10</li>
     <li>PHP 8.2</li>
+    <li>MySQL</li>
+    <li>Docker</li>
     <li>Alpine.js</li>
     <li>TailwindCSS</li>
 </ul>
