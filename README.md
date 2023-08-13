@@ -21,7 +21,23 @@ Just simple task manager app
     <li>Flash Messages</li>
     <li>Migrations</li>
 </ul>
-To setup project run:
+To setup project run in CLI:
+
+Clone Project:
+
+```sh
+
+git clone https://github.com/Yessenali-Yerkebulan/task-list-laravel.git
+
+```
+
+Go inside project directory:
+
+```sh
+
+cd task-list-laravel
+
+```
 
 ```sh
 
