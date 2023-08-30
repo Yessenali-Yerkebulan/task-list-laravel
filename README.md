@@ -73,11 +73,7 @@ php artisan serve
 
 ```
 
-```sh
 
-npm run dev
-
-```
 
 <h1>Main page</h1>
 
